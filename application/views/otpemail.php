@@ -1,0 +1,1 @@
+<b>Dear Customer</b>,<br /><br /><p>Your one time password (OTP) to signin to Icchha.com  is <b><?= $otp;?></b></p><p>Should you require any assistance, please call us on 9611033586 or write to us - support@icchha.com.</p><p>Happy shopping !Warm Regards,</p> <p>Team Icchha</p>
